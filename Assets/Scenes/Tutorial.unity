@@ -256,12 +256,14 @@ MonoBehaviour:
   dialogue:
     name: Prof. Rosas
     sentences:
-    - 'Caloiro
-
-      Espere um pouco'
+    - Oi Viva
+    - "Espere um pouco que estou a tratar de uns assuntos de SI. Este ano n\xE3o
+      tem sido f\xE1cil..."
     - ...
     - ... ... ...
-    - "Ora bem, Bem Vindo \xE0 FCT Caloiro, podia me dizer o seu nome?\n"
+    - "Ora muito bem, Bem Vindo \xE0 FCT Caloiro\nO meu nome \xE9 Prof.Jo\xE3o Rosas
+      e irei monitorizar o seu progresso.  \n"
+    - Antes de mais podia me dizer o seu nome?
 --- !u!114 &259375931
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1248,8 +1250,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Bem Vindo \xE0 FCT Caloiro. Sou o Professor Rosas irei ser o teu tutorial
-    at\xE9 o resto do jogo..."
+  m_Text: "Bem Vindo \xE0 FCT Caloiro. Sou o Professor Rosas irei ser o seu tutorial
+    at\xE9 ao resto do jogo..."
 --- !u!222 &2069100490
 CanvasRenderer:
   m_ObjectHideFlags: 0

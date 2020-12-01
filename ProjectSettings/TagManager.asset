@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Through
   - Cherry
+  - DialogueZone
   layers:
   - Default
   - TransparentFX
@@ -17,7 +18,7 @@ TagManager:
   - 
   - Player
   - Obstacle
-  - 
+  - Dialogue Box
   - 
   - 
   - 
@@ -48,4 +49,7 @@ TagManager:
     locked: 0
   - name: Tiles
     uniqueID: 2124123635
+    locked: 0
+  - name: Enviroment
+    uniqueID: 3907289247
     locked: 0
