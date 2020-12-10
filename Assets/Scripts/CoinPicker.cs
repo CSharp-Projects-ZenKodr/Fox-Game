@@ -16,6 +16,8 @@ public class CoinPicker : MonoBehaviour
             Destroy(collision.gameObject);
             coin ++;
             textCoins.text = coin.ToString();
+            FindObjectOfType<AudioManager >().Play("item");
+
             
         }
         
